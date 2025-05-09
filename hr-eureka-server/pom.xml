@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.wescleydev</groupId>
-	<artifactId>hr-euroka-server</artifactId>
+	<artifactId>hr-eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hr-euroka-server</name>
+	<name>hr-eureka-server</name>
 	<description>Eureka Server Microservice</description>
 	<url/>
 	<licenses>
